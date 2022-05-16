@@ -1,7 +1,0 @@
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\bin\Debug\Threads.exe.config
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\bin\Debug\Threads.exe
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\bin\Debug\Threads.pdb
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\obj\Debug\Threads.exe
-C:\Users\NakamaElLocoManXD\source\repos\Threads\Threads\obj\Debug\Threads.pdb
